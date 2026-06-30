@@ -1,4 +1,4 @@
-# Candidate Profile Pipeline
+# Candidate Profile Data Pipeline
 
 Transforms messy, multi-source candidate data into one clean canonical profile.
 
