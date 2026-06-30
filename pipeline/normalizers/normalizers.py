@@ -76,17 +76,17 @@ def normalize_phone(raw: str, default_region: str = "IN") -> Optional[str]:
 
 
 def normalize_date(raw: str) -> Optional[str]:
-    """Return MM-YYYY string or None if unparseable."""
+    """Return YYYY-MM string or None if unparseable."""
     if not raw or not raw.strip():
         return None
-    # Fast path: already in MM-YYYY or YYYY
-    if re.fullmatch(r"\d{2}-\d{4}", raw.strip()):
+    # Fast path: already in YYYY-MM or YYYY
+    if re.fullmatch(r"\d{4}-\d{2}", raw.strip()):
         return raw.strip()
     if re.fullmatch(r"\d{4}", raw.strip()):
-        return f"01-{raw.strip()}"
+        return f"{raw.strip()}-01"
     parsed = dateparser.parse(raw, settings={"PREFER_DAY_OF_MONTH": "first"})
     if parsed:
-        return parsed.strftime("%m-%Y")
+        return parsed.strftime("%Y-%m")
     logger.debug("Could not normalize date: %r", raw)
     return None
 

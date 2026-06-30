@@ -40,14 +40,14 @@ class TestNormalizers:
         assert normalize_phone("not-a-phone") is None
 
     def test_date_yyyy_mm(self):
-        assert normalize_date("03-2020") == "03-2020"
+        assert normalize_date("2020-03") == "2020-03"
 
     def test_date_year_only(self):
-        assert normalize_date("2020") == "01-2020"
+        assert normalize_date("2020") == "2020-01"
 
     def test_date_human_readable(self):
         result = normalize_date("March 2020")
-        assert result == "03-2020"
+        assert result == "2020-03"
 
     def test_date_empty_returns_none(self):
         assert normalize_date("") is None
