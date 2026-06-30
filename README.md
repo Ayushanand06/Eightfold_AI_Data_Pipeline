@@ -6,7 +6,9 @@ Transforms messy, multi-source candidate data into one clean canonical profile.
 
 ```
 Ingest → Normalize → Merge → Confidence → Project → Validate → JSON output
+
 ```
+## Video Link : https://www.loom.com/share/bfeadfa1db7d4b17817996a55458f39b
 
 | Stage | What it does |
 |---|---|
