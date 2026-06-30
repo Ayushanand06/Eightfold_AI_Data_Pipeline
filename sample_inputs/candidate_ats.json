@@ -1,0 +1,38 @@
+{
+  "candidate": {
+    "candidate_name": "Jane Doe",
+    "emp_email": "jane.doe@example.com",
+    "emp_phone": "4155550101",
+    "emp_title": "Senior Software Engineer",
+    "org": "Acme Corp",
+    "city": "San Francisco",
+    "state": "CA",
+    "country": "US",
+    "summary": "Full-stack engineer with 7 years in distributed systems.",
+    "skill_tags": ["Python", "AWS", "React", "PostgreSQL", "Docker"],
+    "work_history": [
+      {
+        "org": "Acme Corp",
+        "emp_title": "Senior Software Engineer",
+        "start_date": "2020-03",
+        "end_date": null,
+        "description": "Led backend platform team."
+      },
+      {
+        "org": "StartupXYZ",
+        "emp_title": "Software Engineer",
+        "start_date": "2017-06",
+        "end_date": "2020-02",
+        "description": "Built microservices on AWS."
+      }
+    ],
+    "education_history": [
+      {
+        "institution": "UC Berkeley",
+        "degree": "B.S.",
+        "field_of_study": "Computer Science",
+        "graduation_year": 2017
+      }
+    ]
+  }
+}

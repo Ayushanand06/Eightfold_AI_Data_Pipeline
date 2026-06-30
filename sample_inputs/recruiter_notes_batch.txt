@@ -1,0 +1,19 @@
+Candidate: Arjun Mehta
+Contact: arjun.mehta@email.com | +91 98765 43210
+
+Strong experience in Python, Django, and microservices architecture. Skilled in AWS, PostgreSQL, and Redis. Worked extensively with Docker, Kubernetes, and Terraform for cloud deployments. Previously at Flipkart. Looking for senior backend or platform engineering roles. Open to hybrid or remote opportunities.
+
+Candidate: Priya Reddy
+Contact: priya.reddy@email.com | +91 99887 66554
+
+Experienced in JavaScript, React, Node.js, and MongoDB. Built scalable web applications and internal dashboards. Familiar with CI/CD pipelines, GitHub Actions, and cloud deployment on AWS. Previously worked at Infosys. Seeking full stack engineer opportunities with product-based companies.
+
+Candidate: Rohit Kulkarni
+Contact: rohit.k@email.com | +91 97654 22331
+
+Strong background in DevOps automation and infrastructure management. Hands-on expertise in AWS, Jenkins, Docker, Kubernetes, and Ansible. Built automated deployment pipelines and monitoring systems using Prometheus and Grafana. Previously at Tata Consultancy Services. Interested in senior DevOps and cloud engineering roles.
+
+Candidate: Kavya Srinivasan
+Contact: kavya.s@email.com | +91 94455 77889
+
+Experienced in Python, SQL, Apache Spark, and ETL pipeline development. Worked with large-scale data processing systems on AWS and Databricks. Familiar with Airflow, Kafka, and Snowflake. Previously worked at Zoho Corporation. Looking for data engineering opportunities in product companies.

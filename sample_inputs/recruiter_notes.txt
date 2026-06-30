@@ -1,0 +1,7 @@
+Candidate: Jane Doe
+Contact: jane.doe@example.com | +1 415 555 0101
+
+Strong Python and AWS background. Experience with React and Node.js.
+Knows Docker, Kubernetes, and CI/CD pipelines.
+Previously at StartupXYZ. Looking for senior/staff roles.
+Open to remote. Great communication skills.

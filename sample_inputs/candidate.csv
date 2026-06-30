@@ -1,0 +1,22 @@
+name,email,phone,current_company,title,location
+Katherine,jane.doe@example.com,7644092315,Acme Corp,Senior Software Engineer,San Francisco
+Amit Sharma,amit.sharma@gmail.com,+91 9876543210,Infosys,Software Engineer,"Bengaluru, Karnataka"
+Priya Nair,priya.nair@gmail,+91 9123456781,Wipro,Data Analyst,"Kochi, Kerala"
+Rahul Verma,,+91 9988776652,TCS,Backend Developer,Pune
+Sneha Reddy,sneha.reddy@gmail.com,9012345673,Accenture,Cloud Engineer,"Hyderabad, Telangana"
+Karan Patel,karan.patel@gmail.com,,HCL Technologies,DevOps Engineer,Ahmedabad
+Ananya Das,ananya.dasgmail.com,+91 9345678915,Cognizant,QA Engineer,"Kolkata, West Bengal"
+Vikram Singh,vikram.singh@gmail.com,-9871203365,Zoho,Full Stack Developer,Chennai
+Neha Kapoor,neha.kapoor@gmail.com,9988123457,,Product Manager,"Bengaluru, Karnataka"
+Arjun Menon,arjun.menon@,+91 9765432108,Paytm,Mobile Developer,Kochi
+Divya Iyer,divya.iyer@gmail.com,+91 9812345679,Freshworks,UI UX Designer,
+Rohan Gupta,rohan.gupta@gmail.com,9871112230,Tech Mahindra,Java Developer,Noida
+Pooja Jain,pooja.jain@gmail,91,Capgemini,Business Analyst,"Jaipur, Rajasthan"
+Sandeep Rao,,9822233342,Oracle,Database Engineer,Bengaluru
+Meera Joshi,meera.joshi@gmail.com,+91 9833344453,IBM,,"Pune, Maharashtra"
+Harish Kumar,harish.kumar@gmail.com,abc987654,Amazon,SDE I,Hyderabad
+Kavya Shetty,kavya.shetty@gmail.com,+91 9855566675,Microsoft,Frontend Engineer,Bangalore
+Aditya Malhotra,aditya.malhotra@gmail,+91 9866677786,Google,Site Reliability Engineer,Gurgaon
+Shreya Banerjee,shreya.b@gmail.com,,Deloitte,Consultant,Kolkata
+Naveen Krishnan,naveen.k@gmail.com,+91 9888899908,SAP,SAP Consultant,Chennai Tamil Nadu
+Ishita Agarwal,ishita.a@gmail,9899900019,,Product Designer,Noida UP
