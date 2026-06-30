@@ -1,0 +1,926 @@
+[
+  {
+    "candidate_id": "cand_86e0b9e56c17",
+    "full_name": "Katherine",
+    "emails": [
+      "jane.doe@example.com"
+    ],
+    "phones": [
+      "+917644092315"
+    ],
+    "location": null,
+    "links": null,
+    "headline": null,
+    "years_experience": null,
+    "skills": [],
+    "experience": [
+      {
+        "company": "Acme Corp",
+        "title": "Senior Software Engineer",
+        "start": null,
+        "end": null,
+        "summary": null
+      }
+    ],
+    "education": [],
+    "provenance": [
+      {
+        "field": "full_name",
+        "source": "csv",
+        "method": "direct"
+      },
+      {
+        "field": "emails",
+        "source": "csv",
+        "method": "direct"
+      },
+      {
+        "field": "phones",
+        "source": "csv",
+        "method": "direct"
+      },
+      {
+        "field": "experience",
+        "source": "csv",
+        "method": "direct"
+      }
+    ],
+    "overall_confidence": 0.693
+  },
+  {
+    "candidate_id": "cand_45f55fbd0077",
+    "full_name": "Amit Sharma",
+    "emails": [
+      "amit.sharma@gmail.com"
+    ],
+    "phones": [
+      "+919876543210"
+    ],
+    "location": null,
+    "links": null,
+    "headline": null,
+    "years_experience": null,
+    "skills": [],
+    "experience": [
+      {
+        "company": "Infosys",
+        "title": "Software Engineer",
+        "start": null,
+        "end": null,
+        "summary": null
+      }
+    ],
+    "education": [],
+    "provenance": [
+      {
+        "field": "full_name",
+        "source": "csv",
+        "method": "direct"
+      },
+      {
+        "field": "emails",
+        "source": "csv",
+        "method": "direct"
+      },
+      {
+        "field": "phones",
+        "source": "csv",
+        "method": "direct"
+      },
+      {
+        "field": "experience",
+        "source": "csv",
+        "method": "direct"
+      }
+    ],
+    "overall_confidence": 0.693
+  },
+  {
+    "candidate_id": "cand_dc582558deb4",
+    "full_name": "Priya Nair",
+    "emails": [],
+    "phones": [
+      "+919123456781"
+    ],
+    "location": null,
+    "links": null,
+    "headline": null,
+    "years_experience": null,
+    "skills": [],
+    "experience": [
+      {
+        "company": "Wipro",
+        "title": "Data Analyst",
+        "start": null,
+        "end": null,
+        "summary": null
+      }
+    ],
+    "education": [],
+    "provenance": [
+      {
+        "field": "full_name",
+        "source": "csv",
+        "method": "direct"
+      },
+      {
+        "field": "phones",
+        "source": "csv",
+        "method": "direct"
+      },
+      {
+        "field": "experience",
+        "source": "csv",
+        "method": "direct"
+      }
+    ],
+    "overall_confidence": 0.646
+  },
+  {
+    "candidate_id": "cand_24257dc8c127",
+    "full_name": "Rahul Verma",
+    "emails": [],
+    "phones": [
+      "+919988776652"
+    ],
+    "location": null,
+    "links": null,
+    "headline": null,
+    "years_experience": null,
+    "skills": [],
+    "experience": [
+      {
+        "company": "TCS",
+        "title": "Backend Developer",
+        "start": null,
+        "end": null,
+        "summary": null
+      }
+    ],
+    "education": [],
+    "provenance": [
+      {
+        "field": "full_name",
+        "source": "csv",
+        "method": "direct"
+      },
+      {
+        "field": "phones",
+        "source": "csv",
+        "method": "direct"
+      },
+      {
+        "field": "experience",
+        "source": "csv",
+        "method": "direct"
+      }
+    ],
+    "overall_confidence": 0.646
+  },
+  {
+    "candidate_id": "cand_035220cb4c21",
+    "full_name": "Sneha Reddy",
+    "emails": [
+      "sneha.reddy@gmail.com"
+    ],
+    "phones": [
+      "+919012345673"
+    ],
+    "location": null,
+    "links": null,
+    "headline": null,
+    "years_experience": null,
+    "skills": [],
+    "experience": [
+      {
+        "company": "Accenture",
+        "title": "Cloud Engineer",
+        "start": null,
+        "end": null,
+        "summary": null
+      }
+    ],
+    "education": [],
+    "provenance": [
+      {
+        "field": "full_name",
+        "source": "csv",
+        "method": "direct"
+      },
+      {
+        "field": "emails",
+        "source": "csv",
+        "method": "direct"
+      },
+      {
+        "field": "phones",
+        "source": "csv",
+        "method": "direct"
+      },
+      {
+        "field": "experience",
+        "source": "csv",
+        "method": "direct"
+      }
+    ],
+    "overall_confidence": 0.693
+  },
+  {
+    "candidate_id": "cand_81cb99ff78cf",
+    "full_name": "Karan Patel",
+    "emails": [
+      "karan.patel@gmail.com"
+    ],
+    "phones": [],
+    "location": null,
+    "links": null,
+    "headline": null,
+    "years_experience": null,
+    "skills": [],
+    "experience": [
+      {
+        "company": "HCL Technologies",
+        "title": "DevOps Engineer",
+        "start": null,
+        "end": null,
+        "summary": null
+      }
+    ],
+    "education": [],
+    "provenance": [
+      {
+        "field": "full_name",
+        "source": "csv",
+        "method": "direct"
+      },
+      {
+        "field": "emails",
+        "source": "csv",
+        "method": "direct"
+      },
+      {
+        "field": "experience",
+        "source": "csv",
+        "method": "direct"
+      }
+    ],
+    "overall_confidence": 0.652
+  },
+  {
+    "candidate_id": "cand_077fa2ed30f5",
+    "full_name": "Ananya Das",
+    "emails": [],
+    "phones": [
+      "+919345678915"
+    ],
+    "location": null,
+    "links": null,
+    "headline": null,
+    "years_experience": null,
+    "skills": [],
+    "experience": [
+      {
+        "company": "Cognizant",
+        "title": "QA Engineer",
+        "start": null,
+        "end": null,
+        "summary": null
+      }
+    ],
+    "education": [],
+    "provenance": [
+      {
+        "field": "full_name",
+        "source": "csv",
+        "method": "direct"
+      },
+      {
+        "field": "phones",
+        "source": "csv",
+        "method": "direct"
+      },
+      {
+        "field": "experience",
+        "source": "csv",
+        "method": "direct"
+      }
+    ],
+    "overall_confidence": 0.646
+  },
+  {
+    "candidate_id": "cand_9eb06fd906e9",
+    "full_name": "Vikram Singh",
+    "emails": [
+      "vikram.singh@gmail.com"
+    ],
+    "phones": [
+      "+919871203365"
+    ],
+    "location": null,
+    "links": null,
+    "headline": null,
+    "years_experience": null,
+    "skills": [],
+    "experience": [
+      {
+        "company": "Zoho",
+        "title": "Full Stack Developer",
+        "start": null,
+        "end": null,
+        "summary": null
+      }
+    ],
+    "education": [],
+    "provenance": [
+      {
+        "field": "full_name",
+        "source": "csv",
+        "method": "direct"
+      },
+      {
+        "field": "emails",
+        "source": "csv",
+        "method": "direct"
+      },
+      {
+        "field": "phones",
+        "source": "csv",
+        "method": "direct"
+      },
+      {
+        "field": "experience",
+        "source": "csv",
+        "method": "direct"
+      }
+    ],
+    "overall_confidence": 0.693
+  },
+  {
+    "candidate_id": "cand_55ec4ece0cd6",
+    "full_name": "Neha Kapoor",
+    "emails": [
+      "neha.kapoor@gmail.com"
+    ],
+    "phones": [
+      "+919988123457"
+    ],
+    "location": null,
+    "links": null,
+    "headline": null,
+    "years_experience": null,
+    "skills": [],
+    "experience": [
+      {
+        "company": null,
+        "title": "Product Manager",
+        "start": null,
+        "end": null,
+        "summary": null
+      }
+    ],
+    "education": [],
+    "provenance": [
+      {
+        "field": "full_name",
+        "source": "csv",
+        "method": "direct"
+      },
+      {
+        "field": "emails",
+        "source": "csv",
+        "method": "direct"
+      },
+      {
+        "field": "phones",
+        "source": "csv",
+        "method": "direct"
+      },
+      {
+        "field": "experience",
+        "source": "csv",
+        "method": "direct"
+      }
+    ],
+    "overall_confidence": 0.693
+  },
+  {
+    "candidate_id": "cand_4021552aaf99",
+    "full_name": "Arjun Menon",
+    "emails": [],
+    "phones": [
+      "+919765432108"
+    ],
+    "location": null,
+    "links": null,
+    "headline": null,
+    "years_experience": null,
+    "skills": [],
+    "experience": [
+      {
+        "company": "Paytm",
+        "title": "Mobile Developer",
+        "start": null,
+        "end": null,
+        "summary": null
+      }
+    ],
+    "education": [],
+    "provenance": [
+      {
+        "field": "full_name",
+        "source": "csv",
+        "method": "direct"
+      },
+      {
+        "field": "phones",
+        "source": "csv",
+        "method": "direct"
+      },
+      {
+        "field": "experience",
+        "source": "csv",
+        "method": "direct"
+      }
+    ],
+    "overall_confidence": 0.646
+  },
+  {
+    "candidate_id": "cand_d322d7e5b34b",
+    "full_name": "Divya Iyer",
+    "emails": [
+      "divya.iyer@gmail.com"
+    ],
+    "phones": [
+      "+919812345679"
+    ],
+    "location": null,
+    "links": null,
+    "headline": null,
+    "years_experience": null,
+    "skills": [],
+    "experience": [
+      {
+        "company": "Freshworks",
+        "title": "UI UX Designer",
+        "start": null,
+        "end": null,
+        "summary": null
+      }
+    ],
+    "education": [],
+    "provenance": [
+      {
+        "field": "full_name",
+        "source": "csv",
+        "method": "direct"
+      },
+      {
+        "field": "emails",
+        "source": "csv",
+        "method": "direct"
+      },
+      {
+        "field": "phones",
+        "source": "csv",
+        "method": "direct"
+      },
+      {
+        "field": "experience",
+        "source": "csv",
+        "method": "direct"
+      }
+    ],
+    "overall_confidence": 0.693
+  },
+  {
+    "candidate_id": "cand_84bbdd81ba03",
+    "full_name": "Rohan Gupta",
+    "emails": [
+      "rohan.gupta@gmail.com"
+    ],
+    "phones": [
+      "+919871112230"
+    ],
+    "location": null,
+    "links": null,
+    "headline": null,
+    "years_experience": null,
+    "skills": [],
+    "experience": [
+      {
+        "company": "Tech Mahindra",
+        "title": "Java Developer",
+        "start": null,
+        "end": null,
+        "summary": null
+      }
+    ],
+    "education": [],
+    "provenance": [
+      {
+        "field": "full_name",
+        "source": "csv",
+        "method": "direct"
+      },
+      {
+        "field": "emails",
+        "source": "csv",
+        "method": "direct"
+      },
+      {
+        "field": "phones",
+        "source": "csv",
+        "method": "direct"
+      },
+      {
+        "field": "experience",
+        "source": "csv",
+        "method": "direct"
+      }
+    ],
+    "overall_confidence": 0.693
+  },
+  {
+    "candidate_id": "cand_e316a9dff837",
+    "full_name": "Pooja Jain",
+    "emails": [],
+    "phones": [],
+    "location": null,
+    "links": null,
+    "headline": null,
+    "years_experience": null,
+    "skills": [],
+    "experience": [
+      {
+        "company": "Capgemini",
+        "title": "Business Analyst",
+        "start": null,
+        "end": null,
+        "summary": null
+      }
+    ],
+    "education": [],
+    "provenance": [
+      {
+        "field": "full_name",
+        "source": "csv",
+        "method": "direct"
+      },
+      {
+        "field": "experience",
+        "source": "csv",
+        "method": "direct"
+      }
+    ],
+    "overall_confidence": 0.605
+  },
+  {
+    "candidate_id": "cand_75394d5363e0",
+    "full_name": "Sandeep Rao",
+    "emails": [],
+    "phones": [
+      "+919822233342"
+    ],
+    "location": null,
+    "links": null,
+    "headline": null,
+    "years_experience": null,
+    "skills": [],
+    "experience": [
+      {
+        "company": "Oracle",
+        "title": "Database Engineer",
+        "start": null,
+        "end": null,
+        "summary": null
+      }
+    ],
+    "education": [],
+    "provenance": [
+      {
+        "field": "full_name",
+        "source": "csv",
+        "method": "direct"
+      },
+      {
+        "field": "phones",
+        "source": "csv",
+        "method": "direct"
+      },
+      {
+        "field": "experience",
+        "source": "csv",
+        "method": "direct"
+      }
+    ],
+    "overall_confidence": 0.646
+  },
+  {
+    "candidate_id": "cand_8c68913b800c",
+    "full_name": "Meera Joshi",
+    "emails": [
+      "meera.joshi@gmail.com"
+    ],
+    "phones": [
+      "+919833344453"
+    ],
+    "location": null,
+    "links": null,
+    "headline": null,
+    "years_experience": null,
+    "skills": [],
+    "experience": [
+      {
+        "company": "IBM",
+        "title": null,
+        "start": null,
+        "end": null,
+        "summary": null
+      }
+    ],
+    "education": [],
+    "provenance": [
+      {
+        "field": "full_name",
+        "source": "csv",
+        "method": "direct"
+      },
+      {
+        "field": "emails",
+        "source": "csv",
+        "method": "direct"
+      },
+      {
+        "field": "phones",
+        "source": "csv",
+        "method": "direct"
+      },
+      {
+        "field": "experience",
+        "source": "csv",
+        "method": "direct"
+      }
+    ],
+    "overall_confidence": 0.693
+  },
+  {
+    "candidate_id": "cand_ac25e2852ee1",
+    "full_name": "Harish Kumar",
+    "emails": [
+      "harish.kumar@gmail.com"
+    ],
+    "phones": [],
+    "location": null,
+    "links": null,
+    "headline": null,
+    "years_experience": null,
+    "skills": [],
+    "experience": [
+      {
+        "company": "Amazon",
+        "title": "SDE I",
+        "start": null,
+        "end": null,
+        "summary": null
+      }
+    ],
+    "education": [],
+    "provenance": [
+      {
+        "field": "full_name",
+        "source": "csv",
+        "method": "direct"
+      },
+      {
+        "field": "emails",
+        "source": "csv",
+        "method": "direct"
+      },
+      {
+        "field": "experience",
+        "source": "csv",
+        "method": "direct"
+      }
+    ],
+    "overall_confidence": 0.652
+  },
+  {
+    "candidate_id": "cand_f015c0bd3c42",
+    "full_name": "Kavya Shetty",
+    "emails": [
+      "kavya.shetty@gmail.com"
+    ],
+    "phones": [
+      "+919855566675"
+    ],
+    "location": null,
+    "links": null,
+    "headline": null,
+    "years_experience": null,
+    "skills": [],
+    "experience": [
+      {
+        "company": "Microsoft",
+        "title": "Frontend Engineer",
+        "start": null,
+        "end": null,
+        "summary": null
+      }
+    ],
+    "education": [],
+    "provenance": [
+      {
+        "field": "full_name",
+        "source": "csv",
+        "method": "direct"
+      },
+      {
+        "field": "emails",
+        "source": "csv",
+        "method": "direct"
+      },
+      {
+        "field": "phones",
+        "source": "csv",
+        "method": "direct"
+      },
+      {
+        "field": "experience",
+        "source": "csv",
+        "method": "direct"
+      }
+    ],
+    "overall_confidence": 0.693
+  },
+  {
+    "candidate_id": "cand_f9244aca397e",
+    "full_name": "Aditya Malhotra",
+    "emails": [],
+    "phones": [
+      "+919866677786"
+    ],
+    "location": null,
+    "links": null,
+    "headline": null,
+    "years_experience": null,
+    "skills": [],
+    "experience": [
+      {
+        "company": "Google",
+        "title": "Site Reliability Engineer",
+        "start": null,
+        "end": null,
+        "summary": null
+      }
+    ],
+    "education": [],
+    "provenance": [
+      {
+        "field": "full_name",
+        "source": "csv",
+        "method": "direct"
+      },
+      {
+        "field": "phones",
+        "source": "csv",
+        "method": "direct"
+      },
+      {
+        "field": "experience",
+        "source": "csv",
+        "method": "direct"
+      }
+    ],
+    "overall_confidence": 0.646
+  },
+  {
+    "candidate_id": "cand_d72d74b5b8d1",
+    "full_name": "Shreya Banerjee",
+    "emails": [
+      "shreya.b@gmail.com"
+    ],
+    "phones": [],
+    "location": null,
+    "links": null,
+    "headline": null,
+    "years_experience": null,
+    "skills": [],
+    "experience": [
+      {
+        "company": "Deloitte",
+        "title": "Consultant",
+        "start": null,
+        "end": null,
+        "summary": null
+      }
+    ],
+    "education": [],
+    "provenance": [
+      {
+        "field": "full_name",
+        "source": "csv",
+        "method": "direct"
+      },
+      {
+        "field": "emails",
+        "source": "csv",
+        "method": "direct"
+      },
+      {
+        "field": "experience",
+        "source": "csv",
+        "method": "direct"
+      }
+    ],
+    "overall_confidence": 0.652
+  },
+  {
+    "candidate_id": "cand_d07e107600b5",
+    "full_name": "Naveen Krishnan",
+    "emails": [
+      "naveen.k@gmail.com"
+    ],
+    "phones": [
+      "+919888899908"
+    ],
+    "location": null,
+    "links": null,
+    "headline": null,
+    "years_experience": null,
+    "skills": [],
+    "experience": [
+      {
+        "company": "SAP",
+        "title": "SAP Consultant",
+        "start": null,
+        "end": null,
+        "summary": null
+      }
+    ],
+    "education": [],
+    "provenance": [
+      {
+        "field": "full_name",
+        "source": "csv",
+        "method": "direct"
+      },
+      {
+        "field": "emails",
+        "source": "csv",
+        "method": "direct"
+      },
+      {
+        "field": "phones",
+        "source": "csv",
+        "method": "direct"
+      },
+      {
+        "field": "experience",
+        "source": "csv",
+        "method": "direct"
+      }
+    ],
+    "overall_confidence": 0.693
+  },
+  {
+    "candidate_id": "cand_70d163d31e9a",
+    "full_name": "Ishita Agarwal",
+    "emails": [],
+    "phones": [
+      "+919899900019"
+    ],
+    "location": null,
+    "links": null,
+    "headline": null,
+    "years_experience": null,
+    "skills": [],
+    "experience": [
+      {
+        "company": null,
+        "title": "Product Designer",
+        "start": null,
+        "end": null,
+        "summary": null
+      }
+    ],
+    "education": [],
+    "provenance": [
+      {
+        "field": "full_name",
+        "source": "csv",
+        "method": "direct"
+      },
+      {
+        "field": "phones",
+        "source": "csv",
+        "method": "direct"
+      },
+      {
+        "field": "experience",
+        "source": "csv",
+        "method": "direct"
+      }
+    ],
+    "overall_confidence": 0.646
+  }
+]

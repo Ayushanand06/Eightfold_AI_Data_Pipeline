@@ -1,0 +1,186 @@
+{
+  "candidate_id": "cand_e7f6e63bcb42",
+  "full_name": "Ayush Anand",
+  "emails": [
+    "ayushaanand06@gmail.com"
+  ],
+  "phones": [
+    "+917644092315"
+  ],
+  "location": null,
+  "links": null,
+  "headline": "Bangalore Institute of Technology",
+  "years_experience": 0.1,
+  "skills": [
+    {
+      "name": "C++",
+      "confidence": 1.0,
+      "sources": [
+        "resume"
+      ]
+    },
+    {
+      "name": "CSS",
+      "confidence": 1.0,
+      "sources": [
+        "resume"
+      ]
+    },
+    {
+      "name": "Git",
+      "confidence": 1.0,
+      "sources": [
+        "resume"
+      ]
+    },
+    {
+      "name": "JavaScript",
+      "confidence": 1.0,
+      "sources": [
+        "resume"
+      ]
+    },
+    {
+      "name": "MongoDB",
+      "confidence": 1.0,
+      "sources": [
+        "resume"
+      ]
+    },
+    {
+      "name": "Node.js",
+      "confidence": 1.0,
+      "sources": [
+        "resume"
+      ]
+    },
+    {
+      "name": "PostgreSQL",
+      "confidence": 1.0,
+      "sources": [
+        "resume"
+      ]
+    },
+    {
+      "name": "Python",
+      "confidence": 1.0,
+      "sources": [
+        "resume"
+      ]
+    },
+    {
+      "name": "React",
+      "confidence": 1.0,
+      "sources": [
+        "resume"
+      ]
+    },
+    {
+      "name": "TypeScript",
+      "confidence": 1.0,
+      "sources": [
+        "resume"
+      ]
+    }
+  ],
+  "experience": [
+    {
+      "company": "Akatsuki AI Technologies",
+      "title": "Software Development Engineer Intern",
+      "start": "11-2025",
+      "end": "12-2025",
+      "summary": null
+    }
+  ],
+  "education": [
+    {
+      "institution": "Bangalore Institute of Technology",
+      "degree": "Bachelor of Engineering in Computer Science (Data Science) - CGPA: 9.1/10.0",
+      "field": "eering in Computer Science (Data Science)",
+      "end_year": 2022
+    }
+  ],
+  "provenance": [
+    {
+      "field": "full_name",
+      "source": "resume",
+      "method": "direct"
+    },
+    {
+      "field": "headline",
+      "source": "resume",
+      "method": "direct"
+    },
+    {
+      "field": "emails",
+      "source": "resume",
+      "method": "direct"
+    },
+    {
+      "field": "phones",
+      "source": "resume",
+      "method": "direct"
+    },
+    {
+      "field": "skills[C++]",
+      "source": "resume",
+      "method": "direct"
+    },
+    {
+      "field": "skills[CSS]",
+      "source": "resume",
+      "method": "direct"
+    },
+    {
+      "field": "skills[Git]",
+      "source": "resume",
+      "method": "direct"
+    },
+    {
+      "field": "skills[JavaScript]",
+      "source": "resume",
+      "method": "direct"
+    },
+    {
+      "field": "skills[MongoDB]",
+      "source": "resume",
+      "method": "direct"
+    },
+    {
+      "field": "skills[Node.js]",
+      "source": "resume",
+      "method": "direct"
+    },
+    {
+      "field": "skills[PostgreSQL]",
+      "source": "resume",
+      "method": "direct"
+    },
+    {
+      "field": "skills[Python]",
+      "source": "resume",
+      "method": "direct"
+    },
+    {
+      "field": "skills[React]",
+      "source": "resume",
+      "method": "direct"
+    },
+    {
+      "field": "skills[TypeScript]",
+      "source": "resume",
+      "method": "direct"
+    },
+    {
+      "field": "experience",
+      "source": "resume",
+      "method": "direct"
+    },
+    {
+      "field": "education",
+      "source": "resume",
+      "method": "direct"
+    }
+  ],
+  "overall_confidence": 0.846
+}

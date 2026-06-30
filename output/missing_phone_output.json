@@ -1,0 +1,41 @@
+{
+  "candidate_id": "cand_86e0b9e56c17",
+  "full_name": "Jane Doe",
+  "emails": [
+    "jane.doe@example.com"
+  ],
+  "phones": [],
+  "location": null,
+  "links": null,
+  "headline": null,
+  "years_experience": null,
+  "skills": [],
+  "experience": [
+    {
+      "company": "Acme Corp",
+      "title": "Senior Software Engineer",
+      "start": null,
+      "end": null,
+      "summary": null
+    }
+  ],
+  "education": [],
+  "provenance": [
+    {
+      "field": "full_name",
+      "source": "csv",
+      "method": "direct"
+    },
+    {
+      "field": "emails",
+      "source": "csv",
+      "method": "direct"
+    },
+    {
+      "field": "experience",
+      "source": "csv",
+      "method": "direct"
+    }
+  ],
+  "overall_confidence": 0.652
+}

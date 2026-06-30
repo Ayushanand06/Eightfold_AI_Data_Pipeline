@@ -1,0 +1,374 @@
+[
+  {
+    "candidate_id": "cand_ccf74c8749ef",
+    "full_name": "Arjun Mehta",
+    "emails": [
+      "arjun.mehta@email.com"
+    ],
+    "phones": [
+      "+919876543210"
+    ],
+    "location": null,
+    "links": null,
+    "headline": null,
+    "years_experience": null,
+    "skills": [
+      {
+        "name": "AWS",
+        "confidence": 1.0,
+        "sources": [
+          "notes"
+        ]
+      },
+      {
+        "name": "Docker",
+        "confidence": 1.0,
+        "sources": [
+          "notes"
+        ]
+      },
+      {
+        "name": "Kubernetes",
+        "confidence": 1.0,
+        "sources": [
+          "notes"
+        ]
+      },
+      {
+        "name": "PostgreSQL",
+        "confidence": 1.0,
+        "sources": [
+          "notes"
+        ]
+      },
+      {
+        "name": "Python",
+        "confidence": 1.0,
+        "sources": [
+          "notes"
+        ]
+      },
+      {
+        "name": "Redis",
+        "confidence": 1.0,
+        "sources": [
+          "notes"
+        ]
+      }
+    ],
+    "experience": [],
+    "education": [],
+    "provenance": [
+      {
+        "field": "full_name",
+        "source": "notes",
+        "method": "direct"
+      },
+      {
+        "field": "emails",
+        "source": "notes",
+        "method": "direct"
+      },
+      {
+        "field": "phones",
+        "source": "notes",
+        "method": "direct"
+      },
+      {
+        "field": "skills[AWS]",
+        "source": "notes",
+        "method": "direct"
+      },
+      {
+        "field": "skills[Docker]",
+        "source": "notes",
+        "method": "direct"
+      },
+      {
+        "field": "skills[Kubernetes]",
+        "source": "notes",
+        "method": "direct"
+      },
+      {
+        "field": "skills[PostgreSQL]",
+        "source": "notes",
+        "method": "direct"
+      },
+      {
+        "field": "skills[Python]",
+        "source": "notes",
+        "method": "direct"
+      },
+      {
+        "field": "skills[Redis]",
+        "source": "notes",
+        "method": "direct"
+      }
+    ],
+    "overall_confidence": 0.599
+  },
+  {
+    "candidate_id": "cand_5675e2b63ea4",
+    "full_name": "Priya Reddy",
+    "emails": [
+      "priya.reddy@email.com"
+    ],
+    "phones": [
+      "+919988766554"
+    ],
+    "location": null,
+    "links": null,
+    "headline": null,
+    "years_experience": null,
+    "skills": [
+      {
+        "name": "AWS",
+        "confidence": 1.0,
+        "sources": [
+          "notes"
+        ]
+      },
+      {
+        "name": "CI/CD",
+        "confidence": 1.0,
+        "sources": [
+          "notes"
+        ]
+      },
+      {
+        "name": "Git",
+        "confidence": 1.0,
+        "sources": [
+          "notes"
+        ]
+      },
+      {
+        "name": "JavaScript",
+        "confidence": 1.0,
+        "sources": [
+          "notes"
+        ]
+      },
+      {
+        "name": "MongoDB",
+        "confidence": 1.0,
+        "sources": [
+          "notes"
+        ]
+      },
+      {
+        "name": "Node.js",
+        "confidence": 1.0,
+        "sources": [
+          "notes"
+        ]
+      },
+      {
+        "name": "React",
+        "confidence": 1.0,
+        "sources": [
+          "notes"
+        ]
+      }
+    ],
+    "experience": [],
+    "education": [],
+    "provenance": [
+      {
+        "field": "full_name",
+        "source": "notes",
+        "method": "direct"
+      },
+      {
+        "field": "emails",
+        "source": "notes",
+        "method": "direct"
+      },
+      {
+        "field": "phones",
+        "source": "notes",
+        "method": "direct"
+      },
+      {
+        "field": "skills[AWS]",
+        "source": "notes",
+        "method": "direct"
+      },
+      {
+        "field": "skills[CI/CD]",
+        "source": "notes",
+        "method": "direct"
+      },
+      {
+        "field": "skills[Git]",
+        "source": "notes",
+        "method": "direct"
+      },
+      {
+        "field": "skills[JavaScript]",
+        "source": "notes",
+        "method": "direct"
+      },
+      {
+        "field": "skills[MongoDB]",
+        "source": "notes",
+        "method": "direct"
+      },
+      {
+        "field": "skills[Node.js]",
+        "source": "notes",
+        "method": "direct"
+      },
+      {
+        "field": "skills[React]",
+        "source": "notes",
+        "method": "direct"
+      }
+    ],
+    "overall_confidence": 0.599
+  },
+  {
+    "candidate_id": "cand_4cceac9c8217",
+    "full_name": "Rohit Kulkarni",
+    "emails": [
+      "rohit.k@email.com"
+    ],
+    "phones": [
+      "+919765422331"
+    ],
+    "location": null,
+    "links": null,
+    "headline": null,
+    "years_experience": null,
+    "skills": [
+      {
+        "name": "AWS",
+        "confidence": 1.0,
+        "sources": [
+          "notes"
+        ]
+      },
+      {
+        "name": "Docker",
+        "confidence": 1.0,
+        "sources": [
+          "notes"
+        ]
+      },
+      {
+        "name": "Kubernetes",
+        "confidence": 1.0,
+        "sources": [
+          "notes"
+        ]
+      }
+    ],
+    "experience": [],
+    "education": [],
+    "provenance": [
+      {
+        "field": "full_name",
+        "source": "notes",
+        "method": "direct"
+      },
+      {
+        "field": "emails",
+        "source": "notes",
+        "method": "direct"
+      },
+      {
+        "field": "phones",
+        "source": "notes",
+        "method": "direct"
+      },
+      {
+        "field": "skills[AWS]",
+        "source": "notes",
+        "method": "direct"
+      },
+      {
+        "field": "skills[Docker]",
+        "source": "notes",
+        "method": "direct"
+      },
+      {
+        "field": "skills[Kubernetes]",
+        "source": "notes",
+        "method": "direct"
+      }
+    ],
+    "overall_confidence": 0.599
+  },
+  {
+    "candidate_id": "cand_65008d6669cb",
+    "full_name": "Kavya Srinivasan",
+    "emails": [
+      "kavya.s@email.com"
+    ],
+    "phones": [
+      "+919445577889"
+    ],
+    "location": null,
+    "links": null,
+    "headline": null,
+    "years_experience": null,
+    "skills": [
+      {
+        "name": "AWS",
+        "confidence": 1.0,
+        "sources": [
+          "notes"
+        ]
+      },
+      {
+        "name": "Python",
+        "confidence": 1.0,
+        "sources": [
+          "notes"
+        ]
+      },
+      {
+        "name": "SQL",
+        "confidence": 1.0,
+        "sources": [
+          "notes"
+        ]
+      }
+    ],
+    "experience": [],
+    "education": [],
+    "provenance": [
+      {
+        "field": "full_name",
+        "source": "notes",
+        "method": "direct"
+      },
+      {
+        "field": "emails",
+        "source": "notes",
+        "method": "direct"
+      },
+      {
+        "field": "phones",
+        "source": "notes",
+        "method": "direct"
+      },
+      {
+        "field": "skills[AWS]",
+        "source": "notes",
+        "method": "direct"
+      },
+      {
+        "field": "skills[Python]",
+        "source": "notes",
+        "method": "direct"
+      },
+      {
+        "field": "skills[SQL]",
+        "source": "notes",
+        "method": "direct"
+      }
+    ],
+    "overall_confidence": 0.599
+  }
+]

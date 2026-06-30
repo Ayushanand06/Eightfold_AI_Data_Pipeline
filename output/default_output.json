@@ -1,0 +1,199 @@
+{
+  "candidate_id": "cand_86e0b9e56c17",
+  "full_name": "Jane Doe",
+  "emails": [
+    "jane.doe@example.com"
+  ],
+  "phones": [
+    "+14155550101"
+  ],
+  "location": {
+    "city": "San Francisco",
+    "region": "CA",
+    "country": "US"
+  },
+  "links": null,
+  "headline": "Full-stack engineer with 7 years in distributed systems.",
+  "years_experience": 2.7,
+  "skills": [
+    {
+      "name": "AWS",
+      "confidence": 0.67,
+      "sources": [
+        "notes",
+        "ats"
+      ]
+    },
+    {
+      "name": "Docker",
+      "confidence": 0.67,
+      "sources": [
+        "notes",
+        "ats"
+      ]
+    },
+    {
+      "name": "Python",
+      "confidence": 0.67,
+      "sources": [
+        "notes",
+        "ats"
+      ]
+    },
+    {
+      "name": "React",
+      "confidence": 0.67,
+      "sources": [
+        "notes",
+        "ats"
+      ]
+    },
+    {
+      "name": "CI/CD",
+      "confidence": 0.33,
+      "sources": [
+        "notes"
+      ]
+    },
+    {
+      "name": "JavaScript",
+      "confidence": 0.33,
+      "sources": [
+        "notes"
+      ]
+    },
+    {
+      "name": "Kubernetes",
+      "confidence": 0.33,
+      "sources": [
+        "notes"
+      ]
+    },
+    {
+      "name": "Node.js",
+      "confidence": 0.33,
+      "sources": [
+        "notes"
+      ]
+    },
+    {
+      "name": "PostgreSQL",
+      "confidence": 0.33,
+      "sources": [
+        "ats"
+      ]
+    }
+  ],
+  "experience": [
+    {
+      "company": "Acme Corp",
+      "title": "Senior Software Engineer",
+      "start": null,
+      "end": null,
+      "summary": null
+    },
+    {
+      "company": "StartupXYZ",
+      "title": "Software Engineer",
+      "start": "2017-06",
+      "end": "2020-02",
+      "summary": "Built microservices on AWS."
+    }
+  ],
+  "education": [
+    {
+      "institution": "UC Berkeley",
+      "degree": "B.S.",
+      "field": "Computer Science",
+      "end_year": 2017
+    }
+  ],
+  "provenance": [
+    {
+      "field": "full_name",
+      "source": "csv",
+      "method": "direct"
+    },
+    {
+      "field": "headline",
+      "source": "ats",
+      "method": "direct"
+    },
+    {
+      "field": "location",
+      "source": "ats",
+      "method": "direct"
+    },
+    {
+      "field": "emails",
+      "source": "csv",
+      "method": "direct"
+    },
+    {
+      "field": "phones",
+      "source": "csv",
+      "method": "direct"
+    },
+    {
+      "field": "skills[AWS]",
+      "source": "notes",
+      "method": "direct"
+    },
+    {
+      "field": "skills[CI/CD]",
+      "source": "notes",
+      "method": "direct"
+    },
+    {
+      "field": "skills[Docker]",
+      "source": "notes",
+      "method": "direct"
+    },
+    {
+      "field": "skills[JavaScript]",
+      "source": "notes",
+      "method": "direct"
+    },
+    {
+      "field": "skills[Kubernetes]",
+      "source": "notes",
+      "method": "direct"
+    },
+    {
+      "field": "skills[Node.js]",
+      "source": "notes",
+      "method": "direct"
+    },
+    {
+      "field": "skills[PostgreSQL]",
+      "source": "ats",
+      "method": "direct"
+    },
+    {
+      "field": "skills[Python]",
+      "source": "notes",
+      "method": "direct"
+    },
+    {
+      "field": "skills[React]",
+      "source": "notes",
+      "method": "direct"
+    },
+    {
+      "field": "experience",
+      "source": "csv",
+      "method": "direct"
+    },
+    {
+      "field": "experience",
+      "source": "ats",
+      "method": "direct"
+    },
+    {
+      "field": "education",
+      "source": "ats",
+      "method": "direct"
+    }
+  ],
+  "overall_confidence": 0.891
+}
