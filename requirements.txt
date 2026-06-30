@@ -1,0 +1,8 @@
+pydantic>=2.0
+phonenumbers
+pycountry
+dateparser
+requests
+fitz 
+docx
+pytest
