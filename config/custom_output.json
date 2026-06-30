@@ -1,0 +1,17 @@
+{
+  "full_name": "Jane Doe",
+  "primary_email": "jane.doe@example.com",
+  "phone": "+14155550101",
+  "title": "Senior Software Engineer",
+  "company": "Acme Corp",
+  "skills": [
+    "aws",
+    "docker",
+    "postgresql",
+    "python",
+    "react"
+  ],
+  "years_experience": 2.7,
+  "headline": "Full-stack engineer with 7 years in distributed systems.",
+  "overall_confidence": 0.891
+}
