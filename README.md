@@ -10,8 +10,6 @@ Ingest → Normalize → Merge → Confidence → Project → Validate → JSON 
 ```
 ## Video Link : https://www.loom.com/share/bfeadfa1db7d4b17817996a55458f39b
 
-## Video Link : https://www.loom.com/share/bfeadfa1db7d4b17817996a55458f39b
-
 | Stage | What it does |
 |---|---|
 | **Ingest** | One ingestor class per source type extracts a `RawRecord` |
