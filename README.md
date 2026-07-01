@@ -31,6 +31,10 @@ Ingest → Normalize → Merge → Confidence → Project → Validate → JSON 
 
 At least one structured **and** one unstructured source should be provided.
 
+## Architecture Diagram
+<img width="1093" height="2780" alt="mermaid-diagram-2026-07-02-010205" src="https://github.com/user-attachments/assets/7f09407e-1d04-4e67-851d-05bbd7ca4ae3" />
+
+
 ## Setup
 
 ```bash
