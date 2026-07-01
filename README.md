@@ -1,4 +1,4 @@
-# Candidate Profile Pipeline
+# Candidate Profile Data Pipeline
 
 Transforms messy, multi-source candidate data into one clean canonical profile.
 
@@ -7,6 +7,8 @@ Transforms messy, multi-source candidate data into one clean canonical profile.
 ```
 Ingest → Normalize → Merge → Confidence → Project → Validate → JSON output
 ```
+
+## Video Link : https://www.loom.com/share/bfeadfa1db7d4b17817996a55458f39b
 
 | Stage | What it does |
 |---|---|
@@ -61,6 +63,23 @@ python -m pytest tests/ -v
 ```
 
 All 44 tests should pass.
+
+## Submission package
+
+This repo includes the runnable pipeline, a short README, sample inputs, generated sample outputs, and tests.
+
+- `README.md` explains how to run the pipeline and what each stage does.
+- `sample_inputs/` contains the example inputs used for the demo.
+- `output/` contains the output JSON produced for the sample inputs:
+  - `default_output.json`
+  - `custom_output.json`
+  - `ats_result.json`
+  - `result_resume.json`
+  - `result_recruit.json`
+  - `missing_phone_output.json`
+- `test_pipeline.py` verifies pipeline behavior end to end.
+
+A one-page design document PDF should accompany this repository as the final submission.
 
 ## Output config format
 
